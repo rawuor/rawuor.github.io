@@ -14,7 +14,7 @@ layout: feed
     <email>rawuor@u.rochester.edu</email>
   </author>
   
-  {% for post in site.posts % }
+  {% for post in site.posts %}
   <entry>
       <title>{{ post.title }}</title>
       <link href = "http://rawuor.github.io{{ post.url }}"/>
