@@ -1,6 +1,9 @@
 body {
-  margin: 60px auto;
-  width: 70%;
+ /* margin: 60px auto;*/
+ /* width: 70%;*/
+ width: 100%;
+  background-image:url('http://www.hdwallpapersn.com/wp-content/uploads/2015/04/black_background_images1.jpg');
+  height: 500px;
 }
 nav ul, footer ul{
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -40,7 +43,7 @@ ul.posts{
 ul.posts li{
   list-style:none;
 }
-.jumbotron{
+/*.jumbotron{
   background-image:url('http://www.hdwallpapersn.com/wp-content/uploads/2015/04/black_background_images1.jpg');
   height: 500px;
-}
+}*/
