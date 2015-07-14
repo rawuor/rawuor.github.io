@@ -6,9 +6,20 @@ layout: feed
   <title>Ivy Awuor's Blog</title>
   <link href = "http://rawuor.github.io/blog/atom.xml" rel="self"/>
   <link href = "http://rawuor.github.io/blog"/>
-  <updated> {{site.time | date_to_xmlschema }}</updated>
+  <updated> {{ site.time | date_to_xmlschema }}</updated>
   <id>http://rawuor.github.io/blog</id>
   <author>
-    <name>Racquel Awuor </name>
-    <email>rawuor@u.rochester.edu </email>
+    <name>Racquel Awuor</name>
+    <email>rawuor@u.rochester.edu</email>
   </author>
+  
+  {% for post in site.posts % }
+    <entry>
+      <title>{{ post.title }}</title>
+      <link href = "http://rawuor.github.io {{ post.url }}"/>
+      <updated>{{ post.date | date_to_xmlschema }}</updated>
+      <id> http://rawuor.github.io/ {{ post.id }}</id>
+      <content type = "html">{{ post.content | xml_escape}}</content>
+    </entry>
+  {% endfor %}
+</feed>
