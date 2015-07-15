@@ -53,3 +53,7 @@ ul.posts li{
   background-image:url('http://www.hdwallpapersn.com/wp-content/uploads/2015/04/black_background_images1.jpg');
   height: 500px;
 }*/
+#wrap{
+ width:100px;
+ margin: 0 auto;
+}
