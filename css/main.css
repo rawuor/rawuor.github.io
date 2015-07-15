@@ -16,12 +16,11 @@ nav ul, footer ul{
 nav ul li, footer ul li{
   display: inline;
   margin-right:20px;
-  color:white;
 }
 a{
   text-decoration:none;
-  color:#999;
-  /*color:white;*/
+  /*color:#999;*/
+  color:white;
   
 }
 a:hoover{
