@@ -12,15 +12,26 @@
   width:800px;
 }*/
 
-#about_wrapper p{
-  text-align:center;
+#about_wrapper {
+  /*text-align:center;*/
   padding-top:60px;
+  /*font-family: 'Open Sans', 'Sans Serif';
+  letter-spacing:0.3em;
+  font-weight:700;
+  color:#fafafa;
+  font-size:11px;
+  text-transform:uppercase;*/
+  background-color:#ff99cc;
+}
+
+.about p{
+  text-transform:uppercase;
+  text-align:center;
   font-family: 'Open Sans', 'Sans Serif';
   letter-spacing:0.3em;
   font-weight:700;
   color:#fafafa;
   font-size:11px;
-  text-transform:uppercase;
 }
 
 #about_wrapper{
