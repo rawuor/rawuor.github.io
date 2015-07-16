@@ -1,7 +1,7 @@
 /*add header text styling*/
 .header a{
   color: #5a5a5a;
-  font-size: 18px;
+  font-size: 11px;
   font-weight: bold;
   padding: 14px 10px;
   text-transform: uppercase;
@@ -34,7 +34,7 @@
   letter-spacing:0.3em;
   font-weight:700;
   color:#fafafa;
-  font-size:11px;
+  font-size:18px;
 }
 
 #about_wrapper{
