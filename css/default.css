@@ -12,9 +12,9 @@
   width:800px;
 }*/
 
-#about_wrapper {
+/*#about_wrapper {*/
   /*text-align:center;*/
-  padding-top:60px;
+  /*padding-top:60px;*/
   /*font-family: 'Open Sans', 'Sans Serif';
   letter-spacing:0.3em;
   font-weight:700;
@@ -22,10 +22,10 @@
   font-size:11px;
   text-transform:uppercase;*/
   /*width:50%;*/
-  min-width:800px;
-  width:100%;
-  background-color:#ff99cc;
-}
+ /* min-width:800px;*/
+  /*width:100%;*/
+  /*background-color:#ff99cc;
+}*/
 
 .about p{
   text-transform:uppercase;
