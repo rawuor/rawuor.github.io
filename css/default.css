@@ -59,3 +59,12 @@
  font-size:13px;
  color:#fafafa;
 }
+
+.about_content a{
+  text-decoration:none;
+  color:#00ffff;
+}
+
+.about_content a:hoover{
+  text-decoration:underline;
+}
