@@ -38,12 +38,12 @@
 }
 
 #about_wrapper{
+  padding-top:60px;
+  padding-bottom:60px;
   background-color:#ff99cc;
   width:800;
  /* margin:0 auto;
   height:800;*/
-  padding-top:60px;
-  padding-bottom:60px;
 }
 
 #inner_about{
