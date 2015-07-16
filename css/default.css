@@ -68,3 +68,9 @@
 .about_content a:hoover{
   text-decoration:underline;
 }
+
+#illustration img{
+  padding-top:150px;
+  width:50%;
+  min-width:800px;
+}
