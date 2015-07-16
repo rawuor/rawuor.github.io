@@ -6,11 +6,11 @@
   padding: 14px 10px;
   text-transform: uppercase;
 }
-.about{
+/*.about{
   background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkcEH_7yytuG9FXoHtDytlXxM956i9zVu7JI-VqyRbMK-rZM4A');
   height:800px;
   width:800px;
-}
+}*/
 
 #about_wrapper p{
   text-align:center;
@@ -23,13 +23,20 @@
   text-transform:uppercase;
 }
 
+#about_wrapper{
+  background-color:#ff99cc;
+  /*width:800;
+  margin:0 auto;
+  height:800;*/
+}
+
 #inner_about{
  margin-top:150px;
  border-radius:5px;
  width:750px;
  margin:0 auto;
  font-size:30px;
- background-color: #ccc;
+ background-color: black;
  height:700px;
  font-family:'Monaco', 'Courier New';
  text-align:left;
