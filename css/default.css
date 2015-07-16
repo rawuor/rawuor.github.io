@@ -55,13 +55,14 @@
  /*width:750px;*/
  width = 100%;
  /*min-width:800px;*/
- margin:150px;
+ margin-top:100px;
+ margin-bottom:100px;
  font-size:30px;
  background-color: #404040;
  height:700px;
  padding-left:55px;
  padding-right:55px;
- margin-bottom:150px;
+
 }
 .about_content p{
  font-family:'Monaco', 'Courier New';
