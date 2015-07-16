@@ -75,3 +75,9 @@
   min-width:800px;
   height:400px;
 }
+
+.header ul{
+  display:inline;
+  text-align:right;
+  
+}
