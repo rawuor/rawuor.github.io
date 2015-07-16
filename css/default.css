@@ -91,3 +91,13 @@
  text-align:right;
   
 }
+
+.research a{
+  text-decoration:none;
+  color:black;
+}
+
+.research a:hoover{
+  text-decoration:none;
+  text-color:#00ffff;
+}
