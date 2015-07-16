@@ -23,8 +23,16 @@
   text-transform:uppercase;
 }
 
-.inner_about{
-  background-image:url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWJMQJcPE1YIEK_QyixhD1UFEcdQuQoyPcp7AVytw4aHDF8Sop');
-  height:500px;
-  width:500px;
+#inner_about{
+ margin-top:150px;
+ border-radius:5px;
+ width:750px;
+ margin:0 auto;
+ font-size:30px;
+ background-color: #ccc;
+ height:700px;
+ font-family:'Monaco', 'Courier New';
+ text-align:left;
+ font-size:13px;
+ color:#fafafa;
 }
