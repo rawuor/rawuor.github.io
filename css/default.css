@@ -21,7 +21,7 @@
   color:#fafafa;
   font-size:11px;
   text-transform:uppercase;*/
-  width:50%;
+  /*width:50%;*/
   min-width:800px;
   background-color:#ff99cc;
 }
@@ -74,7 +74,7 @@
 
 #illustration img{
   padding-top:15px;
-  width:50%;
+  /*width:50%;*/
   min-width:800px;
   height:400px;
 }
