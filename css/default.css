@@ -8,7 +8,8 @@
 }
 .about{
   background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkcEH_7yytuG9FXoHtDytlXxM956i9zVu7JI-VqyRbMK-rZM4A');
-  height:500px;
+  height:800px;
+  width:800px;
 }
 
 #about_wrapper p{
@@ -20,4 +21,10 @@
   color:#fafafa;
   font-size:11px;
   text-transform:uppercase;
+}
+
+.inner_about{
+  background-image:url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWJMQJcPE1YIEK_QyixhD1UFEcdQuQoyPcp7AVytw4aHDF8Sop');
+  height:500px;
+  width:500px;
 }
