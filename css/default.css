@@ -42,7 +42,7 @@
   /*padding-bottom:60px;*/
   background-color:#ff99cc;
   width:100%;
-  min-width:800px;
+ /* min-width:800px;*/
  /* margin:0 auto;
   height:800;*/
 }
@@ -53,7 +53,7 @@
  border-radius:5px;
  /*width:750px;*/
  width = 100%;
- min-width:800px;
+ /*min-width:800px;*/
  margin:0 auto;
  font-size:30px;
  background-color: #404040;
