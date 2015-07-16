@@ -39,7 +39,7 @@
  background-color: black;
  height:700px;
 }
-#inner_about p{
+.about_content p{
  font-family:'Monaco', 'Courier New';
  text-align:left;
  font-size:13px;
