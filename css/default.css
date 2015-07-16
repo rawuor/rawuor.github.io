@@ -39,22 +39,26 @@
 
 #about_wrapper{
   padding-top:60px;
-  padding-bottom:60px;
+  /*padding-bottom:60px;*/
   background-color:#ff99cc;
-  width:800;
+  width:100%;
+  min-width:800px;
  /* margin:0 auto;
   height:800;*/
 }
 
 #inner_about{
+ padding-top:55px;
  margin-top:150px;
  border-radius:5px;
- width:750px;
+ /*width:750px;*/
+ width = 100%;
+ min-width:800px;
  margin:0 auto;
  font-size:30px;
  background-color: #404040;
- height:700px;
- padding-top:55px;
+/* height:700px;*/
+
  padding-left:55px;
  padding-right:55px;
  margin-bottom:150px;
