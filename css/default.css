@@ -95,6 +95,7 @@
 .research a{
   text-decoration:none;
   color:black;
+  font-family:"Times New Roman", "Times", "Serif";
 }
 
 .research a:hoover{
