@@ -6,26 +6,6 @@
   padding: 14px 10px;
   text-transform: uppercase;
 }
-/*.about{
-  background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkcEH_7yytuG9FXoHtDytlXxM956i9zVu7JI-VqyRbMK-rZM4A');
-  height:800px;
-  width:800px;
-}*/
-
-/*#about_wrapper {*/
-  /*text-align:center;*/
-  /*padding-top:60px;*/
-  /*font-family: 'Open Sans', 'Sans Serif';
-  letter-spacing:0.3em;
-  font-weight:700;
-  color:#fafafa;
-  font-size:11px;
-  text-transform:uppercase;*/
-  /*width:50%;*/
- /* min-width:800px;*/
-  /*width:100%;*/
-  /*background-color:#ff99cc;
-}*/
 
 .about p{
   text-transform:uppercase;
@@ -51,7 +31,7 @@
 #inner_about{
  padding-top:55px;
  margin-top:0px;
- margin-bottom:100px;
+ /*margin-bottom:100px;*/
  margin-right:20px;
  margin-left:20px;
  border-radius:5px;
