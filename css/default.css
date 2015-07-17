@@ -106,6 +106,9 @@
 #resume_about{
   background-color:#C8C8C8;
   width:100%;
-  
+}
+
+#heading{
+  float:right;
 }
 
