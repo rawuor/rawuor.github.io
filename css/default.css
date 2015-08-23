@@ -94,7 +94,7 @@
   text-align:center;
 }
 #heading{
-  float:right;
+  /*float:right;*/
   position:fixed;
 }
 
