@@ -26,6 +26,7 @@
  /* min-width:800px;*/
  /* margin:0 auto;
   height:800;*/
+  position:fixed;
 }
 
 #inner_about{
@@ -95,7 +96,6 @@
 }
 #heading{
   float:right;
-  position:fixed;
 }
 
 #research_container{
