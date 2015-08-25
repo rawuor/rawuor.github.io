@@ -9,7 +9,8 @@
 }
 
 .header ul{
-  text-align:right;
+  text-align:left;
+  display:inline;
 }
 
 .about p{
