@@ -147,6 +147,11 @@
   color:green;
   font-family:"Arial","Verdana","Courier new";
   font-size:20px;
-  text-align:left;
-  
+  text-align:center;
+}
+
+.contact {
+  font-family:"Arial","Verdana","Courier new";
+  font-size:16px;
+  text-align:center;
 }
