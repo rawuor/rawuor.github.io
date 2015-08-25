@@ -137,7 +137,8 @@
 
 /*Contact container*/
 #contact_container{
-  background-color:#ffff;
+  /*background-color:#ffff;*/
+  background-image:url("http://brightness.nl/wp-content/uploads/2014/09/background-contact2.jpg");
 }
 
 .contact h3{
