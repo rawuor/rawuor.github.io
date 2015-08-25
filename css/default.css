@@ -7,9 +7,12 @@
   /*text-transform: uppercase;*/
   /*text-align: left;*/
 }
-
+.first_header li{
+  text-align: right;
+  display:inline;
+}
 .header li{
-  text-align:right;
+  text-align:left;
   display:inline;
 }
 
