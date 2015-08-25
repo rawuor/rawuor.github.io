@@ -1,4 +1,21 @@
 /*add header text styling*/
+.header{
+  text-align: justify;
+  
+  /*IE Special*/
+  width:100%;
+  -ms-text-justify: distribute-all-lines;
+  text-justify:distribute-all-lines;
+}
+
+.header:after{
+  content:'';
+  display:inline-block;
+  width:100%;
+  height:0;
+  font-size:0;
+  line-height:0;
+}
 .header a{
   color: #5a5a5a;
   font-size: 18px;
