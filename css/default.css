@@ -5,11 +5,11 @@
   /*font-weight: bold;*/
   padding: 14px 10px;
   /*text-transform: uppercase;*/
-  text-align: left;
+  /*text-align: left;*/
 }
 
 .header li{
-  text-align:left;
+  text-align:right;
   display:inline;
 }
 
