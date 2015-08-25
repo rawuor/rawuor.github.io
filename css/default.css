@@ -7,15 +7,14 @@
   /*text-transform: uppercase;*/
   /*text-align: left;*/
 }
-.first_header li{
-  text-align: right;
-  display:inline;
-}
 .header li{
   text-align:left;
   display:inline;
 }
-
+.header h3{
+  text-align:right;
+  display:inline;
+}
 .about p{
   text-transform:uppercase;
   text-align:center;
