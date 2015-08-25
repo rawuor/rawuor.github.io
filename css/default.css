@@ -9,7 +9,8 @@
 }
 .header li{
   text-align:right;
-  /*display:inline;*/
+  display:flex;
+  justify-content:space-between;
   list-style-type:none;
 }
 .header h3{
