@@ -5,13 +5,13 @@
   /*font-weight: bold;*/
   padding: 14px 10px;
   /*text-transform: uppercase;*/
-  text-align: right;
+  text-align: left;
 }
 
-.header ul{
+/*.header ul{
   text-align:left;
   display:inline;
-}
+}*/
 
 .about p{
   text-transform:uppercase;
