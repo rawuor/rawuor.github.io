@@ -7,9 +7,10 @@
   /*text-transform: uppercase;*/
   /*text-align: left;*/
 }
-.nav {
+.nav li {
   display:inline;
   text-align:right;
+  list-style-type:none;
 }
  h3{
   text-align:left;
