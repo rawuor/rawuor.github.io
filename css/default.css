@@ -8,14 +8,14 @@
   /*text-align: left;*/
 }
 .header li{
-  text-align:right;
-  display:flex;
+  text-align:justify;
+  display:inline-block;
   justify-content:space-between;
   list-style-type:none;
 }
 .header h3{
   text-align:left;
- /* display:inline;*/
+  display:inline;
 }
 .about p{
   text-transform:uppercase;
