@@ -8,12 +8,12 @@
   /*text-align: left;*/
 }
 .header li{
-  text-align:left;
-  display:inline;
+  text-align:right;
+  /*display:inline;*/
 }
 .header h3{
-  text-align:right;
-  display:inline;
+  text-align:left;
+ /* display:inline;*/
 }
 .about p{
   text-transform:uppercase;
