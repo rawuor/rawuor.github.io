@@ -10,6 +10,7 @@
 .header li{
   text-align:right;
   /*display:inline;*/
+  list-style-type:none;
 }
 .header h3{
   text-align:left;
